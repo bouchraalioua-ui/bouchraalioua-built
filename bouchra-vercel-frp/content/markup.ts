@@ -348,7 +348,7 @@ export const markup = String.raw`
       <h2 class="h-sec">Thank you for reading.</h2>
       <p class="lead" style="margin:12px auto 0">I’d love to bring this to Vercel’s finance team in San Francisco.</p>
       <div style="display:flex;flex-direction:column;align-items:center;gap:12px;margin-top:22px"><span class="mono" style="font-size:14px;color:var(--fg2);user-select:all">bouchraalioua@g.ucla.edu</span><a class="btn ghost" href="${RESUME}" download="Bouchra_Alioua_Resume.pdf">Résumé ↓</a></div>
-      <p class="gg-cap">The Golden Gate, with its cable written in Los Angeles.</p>
+    
     </div>
   </div>
   <a class="next wrap" href="#home"><span class="kicker">Back to</span><b>Home <span>→</span></b></a>
